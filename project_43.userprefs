@@ -1,6 +1,10 @@
 ﻿<Properties StartupItem="project_43.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NewBehaviourScript.cs">
+    <Files>
+      <File FileName="Assets\NewBehaviourScript.cs" Line="18" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
